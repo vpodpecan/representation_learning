@@ -12,3 +12,12 @@ This repository is a growing collection of supplementary material for our book [
     3. [BERT](../Chapter3/BERT.ipynb)
 4. Propositionalization of Multi-Relational Data
     1. [Wordification](../Chapter4/wordification.ipynb)
+
+
+## How to contribute
+
+Contributions are welcome! You are welcome to contribute corrections, new notebooks, examples, figures or any other material related to the contents of the book.
+
+## License
+
+The code and materials in this repository are licensed under the MIT license except where stated otherwise.
