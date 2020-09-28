@@ -7,11 +7,11 @@ This repository is a growing collection of supplementary material for our book [
 1. Introduction to Representation Learning
 2. Machine Learning Background
 3. Text Embeddings
-    1. [LSA and LDA](../Chapter3/LSA_LDA.ipynb)
-    2. [word2vec](../Chapter3/word2vec.ipynb)
-    3. [BERT](../Chapter3/BERT.ipynb)
+    1. [LSA and LDA](../master/Chapter3/LSA_LDA.ipynb)
+    2. [word2vec](../master/Chapter3/word2vec.ipynb)
+    3. [BERT](../master/Chapter3/BERT.ipynb)
 4. Propositionalization of Multi-Relational Data
-    1. [Wordification](../Chapter4/wordification.ipynb)
+    1. [Wordification](../master/Chapter4/wordification.ipynb)
 
 
 ## How to contribute
