@@ -12,6 +12,8 @@ This repository is a growing collection of supplementary material for our book [
     3. [BERT](../master/Chapter3/BERT.ipynb)
 4. Propositionalization of Multi-Relational Data
     1. [Wordification](../master/Chapter4/wordification.ipynb)
+5. Graph and Heterogeneous Network Transformations
+    1. [node2vec](../master/Chapter5/node2vec.ipynb)
 
 
 ## How to contribute
