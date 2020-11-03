@@ -14,6 +14,8 @@ This repository is a growing collection of supplementary material for our book [
     1. [Wordification](../master/Chapter4/wordification.ipynb)
 5. Graph and Heterogeneous Network Transformations
     1. [node2vec](../master/Chapter5/node2vec.ipynb)
+    2. [metapath2vec](../master/Chapter5/metapath2vec.ipynb)
+
 
 
 ## How to contribute
