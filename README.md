@@ -16,6 +16,7 @@ This repository is a growing collection of supplementary material for our book [
 5. Graph and Heterogeneous Network Transformations
     1. [node2vec](../master/Chapter5/node2vec.ipynb)
     2. [metapath2vec](../master/Chapter5/metapath2vec.ipynb)
+    3. [hinmine](../master/Chapter5/hinmine.ipynb)
 6. Unifying approaches
     1. [StarSpace](../master/Chapter6/starspace.ipynb)
 
