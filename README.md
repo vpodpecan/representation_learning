@@ -19,8 +19,7 @@ This repository is a growing collection of supplementary material for our book [
     3. [hinmine](../master/Chapter5/hinmine.ipynb)
 6. Unifying approaches
     1. [StarSpace](../master/Chapter6/starspace.ipynb)
-
-
+    2. [propDRM](../master/Chapter6/propDRM.ipynb)
 
 ## How to contribute
 
