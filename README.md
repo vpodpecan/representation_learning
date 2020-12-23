@@ -47,15 +47,18 @@ In addition, each notebook has its own requirements which are installed when the
       myEnv\Scripts\activate
       ```
       
-2. Install and run jupyterlab. The following commands install jupyterlab and returns a link to the web application.
+2. Clone the repository
+    ```bash
+    git clone https://github.com/vpodpecan/representation_learning.git
+    ```
+
+3. Install and run jupyterlab. The following commands install jupyterlab and run it.
     ```bash
     pip install jupyterlab
+    cd representation_learning
     jupyter lab
     ```
-3. Open the link in a web browser.
-
-4. Upload the selected notebook and run it.
-
+4. Open the link in a web browser and select a notebook.
 
 ## How to contribute
 
