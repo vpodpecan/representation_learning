@@ -1,6 +1,6 @@
 # Representation learning: propositionalization and embeddings
 
-This repository is a growing collection of supplementary material for our book [Representation learning: propositionalization and embeddings](). Currently, a number of Jupyter notebooks illustrating the selected parts of the book are available.
+This repository is a growing collection of supplementary material for our book [Representation learning: propositionalization and embeddings](). Currently, a number of Jupyter notebooks illustrating the selected parts of the book is available.
 
 ## Table of contents
 
@@ -24,14 +24,27 @@ This repository is a growing collection of supplementary material for our book [
 
 ## How to use
 
-### Requirements
+### Docker
 
-- python 3.8 (3.6 and 3.7 were also tested and should work as well)
+The notebooks work best in a local installation containing Jupyter lab and other required packages. If you prefer docker or if you experience difficulties running the notebooks on your host operating system, you can try using the provided `docker-compose.yml file` as follows:
+
+```bash
+git clone git@github.com:vpodpecan/representation_learning.git
+cd representation_learning
+docker-compose up
+```
+
+When the container is up and running it will return a link to the Jupyter environment such as `http://127.0.0.1:8888/?token=159090399d58b41041bfc812cf2bf5aa1779fb54a6170005`. There you can open and run the provided notebooks.
+
+### Local installation
+#### Requirements
+
+- python 3.8+ (3.6 and 3.7 were also tested and should work as well)
 - jupyterlab
 
 In addition, each notebook has its own requirements which are installed when the notebook is executed for the first time.
 
-### Preparing the environment
+#### Preparing the environment
 
 1. Create and activate a virtual environment.
 
