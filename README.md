@@ -1,6 +1,6 @@
 # Representation learning: propositionalization and embeddings
 
-This repository is a growing collection of supplementary material for our book [Representation learning: propositionalization and embeddings](). Currently, a number of Jupyter notebooks illustrating the selected parts of the book is available.
+This repository is a growing collection of supplementary material for our book [Representation learning: propositionalization and embeddings](https://link.springer.com/book/10.1007/978-3-030-68817-2). Currently, a number of Jupyter notebooks illustrating the selected parts of the book is available.
 
 ## Table of contents
 
